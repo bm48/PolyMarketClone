@@ -33,13 +33,6 @@ Polymarket is a decentralized information market, harnessing the power of free m
  - Metamask
  - IPFS
 
-## Demo Video
-
-![DEMO](https://github.com/figment-networks/learn-tutorials/raw/master/assets/polymarket-app-demo.gif)
-
-## 🗺 Roadmap
-
-See the [open issues](https://github.com/viral-sangani/polygon-peer-to-peer-payment/issues) for a list of proposed features (and known issues).
 
 ## 🤝 Contributing
 
